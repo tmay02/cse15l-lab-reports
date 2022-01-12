@@ -10,3 +10,25 @@
 
 ![Image](http://cdn.akc.org/content/article-body-image/funny-french_bulldog.jpg)
 
+> Block quote
+
+* have
+* a
+* list
+
+1. how
+2. about
+3. another?
+
+line:
+---
+
+`inline code` wow
+
+```
+pretend like this
+is some fantastic
+coding
+```
+
+and that's all folks!
