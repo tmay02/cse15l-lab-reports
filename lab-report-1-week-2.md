@@ -81,9 +81,11 @@ $ scp /Users/joe/.ssh/id_rsa.pub cs15lwi22@ieng6.ucsd.edu:~/.ssh/authorized_keys
 
 Efficiency is key when it comes to repeating tasks hundreds of times. There a couple of ways to run code in a much quicker fashion. For example,
 ```
-$ ssh cs15lwi22@ieng6.ucsd.edu "ls"
+$ ssh cs15lwi22___@ieng6.ucsd.edu "ls"
 ```
 will log into the server, run the command `ls`, and then log out (all in one line of code!).
+
+![Image](stepsix.png)
 
 Another potentially useful tool is using semicolons to run multiple commands, such as in the example given during our lab:
 ```
